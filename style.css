@@ -117,7 +117,7 @@
     padding: 1em;
 }
 
-
+/* inicio estilo botão de busca*/
 form {
     border: 1px solid whitesmoke;
     border-radius: 0.3em;
@@ -148,7 +148,7 @@ form button:hover {
     color: blueviolet;
    
 }
-
+/* fim estilo botão de busca */
 
 #a10 {
     background-color: #fcf0db;
